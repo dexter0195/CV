@@ -1,0 +1,345 @@
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Arch Linux)  (format=luatex 2019.10.16)  17 OCT 2019 02:15
+ restricted system commands enabled.
+ file:line:error style messages enabled.
+**cv
+(./cv.tex
+./cv.tex:13: Undefined control sequence.
+l.13 \documentclass
+                 [localFont,alternative]{yaac-another-awesome-cv}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./cv.tex:15: Undefined control sequence.
+l.15 \name
+        {Alessio}{Trivisonno}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./cv.tex:16: Undefined control sequence.
+l.16 \tagline
+           {System \& Network Administrator | Security Expert | Back-end Dev...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./cv.tex:17: Undefined control sequence.
+l.17 \photo
+         {2.5cm}{me.png}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./cv.tex:18: Undefined control sequence.
+l.18 \socialinfo
+              {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./cv.tex:19: Undefined control sequence.
+l.19 	\linkedin
+             {alessio-trivisonno-945023141}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./cv.tex:21: Undefined control sequence.
+l.21 	\smartphone
+               {+39 338 536 5528}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./cv.tex:22: Undefined control sequence.
+l.22 	\email
+          {alessio.trivisonno@gmail.com}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./cv.tex:25: Argument of \\ has an extra }.
+<inserted text> 
+\par 
+<to be read again> 
+}
+l.25 }
+    
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+ \address {Via Giuseppe Bentivogli, 109/2, 40138, Bologna (BO) , Ital\ETC.
+./cv.tex:25: Paragraph ended before \\ was complete.
+<to be read again> 
+\par 
+<to be read again> 
+}
+l.25 }
+    
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Overfull \hbox (16.13475pt too wide) in paragraph at lines 15--25
+[]\tenrm AlessioTriv-i-sonno Sys-tem & Net-work Ad-min-is-tra-tor | Se-cu-rity Ex-pert | Back-end De-vel-oper 2.5cmme.png|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x20.0, direction TLT
+.\tenrm A
+.\tenrm l
+.\tenrm e
+.etc.
+
+./cv.tex:27: Undefined control sequence.
+l.27 \begin
+         {document}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./cv.tex:29: Undefined control sequence.
+l.29 	\makecvheader
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+(./section_headline_archi.tex) (./section_competences.tex
+./section_competences.tex:13: Undefined control sequence.
+l.13 \sectionTitle
+                {Competences}{\faTasks}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./section_competences.tex:13: Undefined control sequence.
+l.13 \sectionTitle{Competences}{\faTasks
+                                      }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./section_competences.tex:15: Undefined control sequence.
+l.15 	\begin
+          {keywords}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./section_competences.tex:16: Undefined control sequence.
+l.16 		\keywordsentry
+                   {Programming}{\textbf{C}, \textbf{C++}, \textbf{Python}, ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./section_competences.tex:16: Undefined control sequence.
+l.16 		\keywordsentry{Programming}{\textbf
+                                        {C}, \textbf{C++}, \textbf{Python}, ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./section_competences.tex:16: Undefined control sequence.
+l.16 ...ywordsentry{Programming}{\textbf{C}, \textbf
+                                                  {C++}, \textbf{Python}, \t...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./section_competences.tex:16: Undefined control sequence.
+l.16 ...ogramming}{\textbf{C}, \textbf{C++}, \textbf
+                                                  {Python}, \textbf{Bash}, C...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./section_competences.tex:16: Undefined control sequence.
+l.16 ...f{C}, \textbf{C++}, \textbf{Python}, \textbf
+                                                  {Bash}, C\#, GO, Java, LaT...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./section_competences.tex:17: Undefined control sequence.
+l.17 		\keywordsentry
+                   {Frameworks}{Django, \textbf{Flask}, Angular, ELK, .NET, ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./section_competences.tex:17: Undefined control sequence.
+l.17 		\keywordsentry{Frameworks}{Django, \textbf
+                                               {Flask}, Angular, ELK, .NET, ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./section_competences.tex:18: Undefined control sequence.
+l.18 		\keywordsentry
+                   {Database}{\textbf{MySQL}, PostgreSQL, \textbf{Elasticsea...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./section_competences.tex:18: Undefined control sequence.
+l.18 		\keywordsentry{Database}{\textbf
+                                     {MySQL}, PostgreSQL, \textbf{Elasticsea...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./section_competences.tex:18: Undefined control sequence.
+l.18 ...atabase}{\textbf{MySQL}, PostgreSQL, \textbf
+                                                  {Elasticsearch}, MongoDB, ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./section_competences.tex:19: Undefined control sequence.
+l.19 		\keywordsentry
+                   {Development tools}{\textbf {IntelliJ Idea}, Eclipse, git...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./section_competences.tex:19: Undefined control sequence.
+l.19 		\keywordsentry{Development tools}{\textbf
+                                               {IntelliJ Idea}, Eclipse, git...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./section_competences.tex:20: Undefined control sequence.
+l.20 		\keywordsentry
+                   {Operating Systems}{Mac OS X, Windows Server, Windows (7,...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./section_competences.tex:20: Undefined control sequence.
+l.20 ...ows Server, Windows (7, 8, 8.1, 10), \textbf
+                                                  {GNU Linux} (Debian, Arch,...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./section_competences.tex:21: Undefined control sequence.
+l.21 		\keywordsentry
+                   {Linux Server Administration}{LDAP, Apache, Nginx, Postfi...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./section_competences.tex:21: Undefined control sequence.
+l.21 ..., Apache, Nginx, Postfix, NFS, SNMP, \textbf
+                                                  {sFlow}, NetFlow, OpenVPN,...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./section_competences.tex:22: Undefined control sequence.
+l.22 			\textbf
+             {Docker}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./section_competences.tex:23: Undefined control sequence.
+l.23 		\keywordsentry
+                   {Business}{Innovation, Entrepreneurship, Customer Validat...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./section_competences.tex:24: Undefined control sequence.
+l.24 		\keywordsentry
+                   {Others}{Making (Raspberry Pi, Arduino), Electronics, Hom...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]))</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on cv.pdf (1 page, 26700 bytes).
+
+PDF statistics: 12 PDF objects out of 1000 (max. 8388607)
+ 7 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 100000000)
+
